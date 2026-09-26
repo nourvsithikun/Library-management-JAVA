@@ -20,6 +20,7 @@ hs_err_pid*
 # Runtime-generated library files
 data/.library.lock
 data/invoices/
+src/main/java/com/istad/library/data/
 output/
 
 # Codex working and validation files
