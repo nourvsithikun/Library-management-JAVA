@@ -1,0 +1,6 @@
+bookId,title,author,category,quantity,available
+B001,Effective Java,Joshua Bloch,Programming,3,3
+B002,Clean Code,Robert C. Martin,Programming,2,2
+B003,The Little Prince,Antoine de Saint-Exupery,Fiction,4,4
+B004,Computer Networks,Andrew S. Tanenbaum,Technology,2,2
+B005,English Grammar in Use,Raymond Murphy,Education,3,3

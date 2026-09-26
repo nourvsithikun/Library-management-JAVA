@@ -1,0 +1,32 @@
+# Java and Maven build output
+*.class
+build/
+dist/
+out/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Other local editor settings
+.vscode/
+
+# macOS and temporary files
+.DS_Store
+*.log
+hs_err_pid*
+
+# Runtime-generated library files
+data/.library.lock
+data/invoices/
+output/
+
+# Codex working and validation files
+.codex-work/
+.codex-finalizer/
+*.inspect.ndjson
+*.validation.json
+
+# Generated presentation files
+*.pptx

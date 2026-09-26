@@ -1,0 +1,4 @@
+userId,name,email,phone,status
+U001,Dara Sok,dara@example.com,012345678,ACTIVE
+U002,Sophy Lim,sophy@example.com,098765432,ACTIVE
+U003,Vanna Chea,vanna@example.com,011223344,INACTIVE
